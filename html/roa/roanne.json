@@ -1,0 +1,119 @@
+{
+    "title": "Cagnes Roanne Trip",
+    "stages": [
+      {
+        "name": "Cagnes - Riez",
+        "surname": "Le jour le plus beau",
+        "dst": 148,
+        "rt": "5h30 a 6h30",
+        "description": "Montée des Gorges du Loup *, Plaine de Thorenc, La Roque Esclapon, Comps, Corniche Sublime ***, Lac de Sainte Croix ***",
+        "roadmap": "Prévoir un départ suffisament tot (7h00) pour profiter du Lac après 120 kms (13h00). Coupure / Baignade au Lac de Ste Croix",
+        "planb" : "",
+        "highlights": [
+          {
+            "km": 107,
+            "name": "Balcons de la Mescla",
+            "pic": "assets/img/01-mescla.jpg"
+          },
+          {
+            "km": 115,
+            "name": "Corniche Sublime su Verdon",
+            "pic": "assets/img/01-corniche.jpg"
+          },
+          {
+            "km": 127,
+            "name": "Lac de Sainte Croix",
+            "pic": "assets/img/01-lac.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Riez - Bollène",
+        "surname": "Le jour le plus fou",
+        "dst": 158,
+        "rt": "5h15 a 6h15",
+        "description": "Les lavandes de Valensole *** , Maosque, la traversée du Luberon par véloroute du Calavon, Roussillon **, Gordes ***",
+        "roadmap": "Prévoir un départ matinal (6h30) pour kiffer les lavandes au petit matin dans une atmosphère paradisiaque. Profiter des villages du Luberon pas trop dans la chaleur. Coupure casse croute dans le Luberon",
+        "planb" : "Continuez le veloroute pour aller en gare d'Avignon et rejoindre Bollène en train (-40kms) ou choper un train a Carpentras",
+        "highlights": [
+          {
+            "km": 12,
+            "name": "Les Lavandes de Valensole",
+            "pic": "assets/img/02-lavande.jpg"
+          },
+          {
+            "km": 60,
+            "name": "VéloRoute du Cavalon",
+            "pic": "assets/img/02-veloroute.jpg"
+          },
+          {
+            "km": 80,
+            "name": "Roussillon",
+            "pic": "assets/img/02-rousillon.jpg"
+          },
+           {
+            "km": 93,
+            "name": "Gordes",
+            "pic": "assets/img/02-gordes.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Bollène - Le Puy En Velay",
+        "surname": "Le jour le plus long",
+        "dst": 205,
+        "rt": "7h30 a 8h30",
+        "description": "Les Gorges de l'Ardèche ***, Le pont de l'Arc **, Le Col de Meyrand ***, le lac d'Issarlès **, Le Puy ***",
+        "roadmap": "Prévoir un départ matinal (6h00) pour faire les gorges de l'Ardèche avant les touristes et dans l'après midi profiter du Lac d'Issarlès",
+        "planb" : "Tracer au plus court apres le col de Meyrand ou loger au Lac d'Issarlès (-35kms)",
+        "highlights": [
+          {
+            "km": 25,
+            "name": "Les Gordes de l'Ardèche",
+            "pic": "img/voir.jpg"
+          },
+          {
+            "km": 50,
+            "name": "Le Pont de l'Arc",
+            "pic": "img/voir.jpg"
+          },
+          {
+            "km": 120,
+            "name": "Le Col de Meyrand",
+            "pic": "img/voir.jpg"
+          },
+           {
+            "km": 165,
+            "name": "LE Lac d'Issarlès",
+            "pic": "img/voir.jpg"
+          }
+        ]
+      },
+       {
+        "name": "Le Puy En Velay - Roanne",
+         "surname": "Le jour le plus doux",
+        "dst": 161,
+        "rt": "6h00 a 7h00",
+        "description": "Le Puy en Velay ***, Les Gorges de la Loire **, la plaine du Forez",
+        "roadmap": "Tranquille. Profiter du départ pour visiter le Puy en Velay",
+         "planb" : "Choper un train a Andrézieux pour Roanne (-60 kms)",
+        "highlights": [
+          {
+            "km": 1,
+            "name": "Le Puy en Velay",
+            "pic": "img/voir.jpg"
+          },
+          {
+            "km": 10,
+            "name": "Les Gorges de la Loire",
+            "pic": "img/voir.jpg"
+          },
+          {
+            "km": 161,
+            "name": "Ma douce",
+            "pic": "img/voir.jpg"
+          }
+        ]
+      }
+    ]
+  }
