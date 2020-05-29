@@ -1,0 +1,59 @@
+{
+    "title": "Road Trip Des 6 Majeurs",
+    "stages": [
+      {
+        "name": "Isola - Château-Ville-Vieille",
+        "surname": "",
+        "dst": 124,
+        "rt": "5h15 a 6h15",
+        "description": "Départ d'Isola Village, montée du col de la Bonette, Descente sur Jausiers, montée du Col de Vars, descente sur Guillestre, Combe du Queyras. Idéalement manger/dormir vers Chateau Queyras / Château-Ville-Vieille, par exemple Hôtel Restaurant Le Guilazur ETS,  Gite Les Astragales",
+        "alt" : "assets/img/alpes/01-alt.jpg",
+        "plan" : "assets/img/alpes/01-map.jpg",
+        "openrunner" : "https://www.openrunner.com/r/11379361",
+        "highlights": [
+          {
+            "km": 40,
+            "name": "Col de La Bonette",
+            "pic": "assets/img/01-bonette.jpg"
+          },
+          {
+            "km": 84,
+            "name": "Col de Vars",
+            "pic": "assets/img/01-vars.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Château-Ville-Vieille - Isola",
+        "surname": "Pas pour les petites bites",
+        "dst": 188,
+        "rt": "8h30 a 9h30",
+        "description": "Montée du Col d'Agnel, descente sur Sampeyre. Montée du Col de Sampeyre. Dans le descente, au kilomètre 71, peut etre il vaut mieux prendre la direction de Elva plutot que Stroppo.  Montée du Col de Fauniera, descente sur Demonte. Au kilometre 135 bien suivre la trace gpx qui prend une petite route tranquille pour rejoindre le pied de la Lombarde",
+        "alt" : "assets/img/alpes/02-alt.jpg",
+        "plan" : "assets/img/alpes/02-map.jpg",
+        "openrunner": "https://www.openrunner.com/r/11373097",
+        "highlights": [
+          {
+            "km": 21,
+            "name": "Col d'Agnel",
+            "pic": "assets/img/alpes/agniel.jpg"
+          },
+          {
+            "km": 67,
+            "name": "Col de Sampeyre",
+            "pic": "assets/img/alpes/sampeyre.jpg"
+          },
+          {
+            "km": 111,
+            "name": "Col de Fauniera",
+            "pic": "assets/img/alpes/fauniera.jpg"
+          },
+          {
+            "km": 168,
+            "name": "Col de la Lombarde",
+            "pic": "assets/img/alpes/lombarde.jpg"
+          }
+        ]
+      }
+    ]
+  }
