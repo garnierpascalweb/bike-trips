@@ -6,21 +6,31 @@
 
   <div class="panel panel-primary" ng-repeat="stage in vm.trip.stages">
     <div class="panel-heading">
-      <div class="panel-title pull-left"> Jour {{ $index+1 }} - {{stage.name}} </div>
-      <div class="panel-title pull-right"><span class="glyphicon glyphicon-road"></span> {{stage.dst}} kms&nbsp;&nbsp;&nbsp;- <span class="glyphicon glyphicon-time"></span>        {{stage.rt}} </div>
+      <div class="panel-title pull-left"> Jour {{ $index+1 }} - {{stage.name}} - {{stage.surname}}</div>
+      <div class="panel-title pull-right">
+        <span class="glyphicon glyphicon-road"></span> {{stage.dst}} kms&nbsp;&nbsp;&nbsp;
+        <span class="glyphicon glyphicon-circle-arrow-up"></span> &nbsp;{{stage.deniv}}m &nbsp;&nbsp;&nbsp;
+        <span class="glyphicon glyphicon-time"></span>        {{stage.rt}} </div>
       <div class="clearfix"></div>
     </div>
     <div class="panel-body">
       <div class="row">
-        <div class="col-sm-12">{{stage.description}}</div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <h4>Profil (Openrunner : <a href="{{stage.openrunner}}" target="#">{{stage.openrunner}}</a>)</h4>
+        <div class="col-lg-1">
+          <img src="{{stage.ico}}"  class="img-circle" width="75" height="75" ></img>
+        </div>
+        <div class="col-lg-11">
+          <b>Parcours : </b> {{stage.description}}<br/>
+          <b>Infos : </b> {{stage.infos}}
+          <br>        
         </div>
       </div>
+      <div class="row">       
+        <div class="col-lg-12">
+          <h4>Profil (Openrunner : <a href="{{stage.openrunner}}" target="#">{{stage.openrunner}}</a>)</h4>
+        </div>        
+      </div>
       <div class="row">
-        <div class="col-sm-12"><img src="{{stage.alt}}"></img>
+        <div class="col-sm-12"><img src="{{stage.alt}}" width="800" height="240"></img>
         </div>
       </div>
     </div>

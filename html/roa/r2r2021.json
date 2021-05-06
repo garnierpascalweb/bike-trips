@@ -1,0 +1,61 @@
+{
+    "title": "Road to Roanne 2021",
+    "stages": [
+      {
+        "name": "Beuil (06) => Chorges (05)",
+        "surname": "",
+        "dst": 134,
+        "deniv": 2500,
+        "rt": "5h30 à 6h30",
+        "description": "Départ de Beuil, Valberg, Guillaumes puis longue ascension du Col de la Cayolle (***), descente coté Ubaye, Bords du Lac de Serre Poncon (***) (baignade, km 127), arrivée a Chorges",
+        "infos":"Départ vers 07h30 - Baignade / Pause Dejeuner Lac de Serre Poncon (km 127) - A Chorges, Laverie 24/24 Intermarché 30 Les Pontillas - Hebergement sur Chorges",
+        "alt" : "../../assets/img/step1.jpg",
+        "plan" : "",
+        "ico" : "../../assets/img/step1-img.jpg",
+        "openrunner" : "https://www.openrunner.com/r/12808035",
+        "highlights": []
+      },
+      {
+        "name": "Chorges (05) => Die (26)",
+        "surname": "A travers les Hautes Alpes !",
+        "dst": 136,
+        "deniv": 2050,
+        "rt": "4h45 a 5h45",
+        "description": "Depart de Chorges, montée au col de Manse par la Batie Neuve, vallée du Champsaur, Lac du Sautet (**), Mens, Col de Menée (*), Die",
+        "infos":"Départ milieu de matinée possible - Baignade Lac du Sautet (km 51) - A Die, Laverie 24/24 Revolution Laundry 77 Avenue Sadi Carnot - Hebergement sur Die",
+        "alt" : "../../assets/img/step2.jpg",
+        "plan" : "",
+        "ico" : "../../assets/img/step2-img.jpg",
+        "openrunner": "https://www.openrunner.com/r/12807969",
+        "highlights": []
+      },
+      {
+        "name": "Die (26) - Crépol (26)",
+        "surname": "La traversée du Vercors !",
+        "dst": 107,
+        "deniv": 1900,
+        "rt": "4h15 a 5h15",
+        "description": "Etape reine - Départ de Die, Col du Rousset (**) Foret de Lente (**), Combe Laval (***) Pont en Royans (**), plaine dromoise pour rejoindre Crépol",
+        "infos":"Départ vers 8h00 - Baignade / Pause dejeuner Pont en Royans - Hebergement Marco La Joncaille",
+        "alt" : "../../assets/img/step3.jpg",
+        "plan" : "",
+        "ico" : "../../assets/img/step3-img.jpg",
+        "openrunner": "https://www.openrunner.com/r/12807754",
+        "highlights": []
+      },
+      {
+        "name": "Crépol (26) => Roanne (42)",
+        "surname": "Traversée du Pilat et plaine du Forez !",
+        "dst": 179,
+        "deniv": 2350,
+        "rt": "6h45 a 7h45",
+        "description": "Hauterive palais Facteur a Cheval (**), Piste cyclable Via Rhona, Pélussin et Col de la croix de Montvieux, Col de Gachet, Plaine du Forez",
+        "infos":"Départ vers 6h30 - Baignade  /Pause dejeuner Pont en Royans - Hebergement Marco La Joncaille",
+        "alt" : "../../assets/img/step4.jpg",
+        "plan" : "",
+        "ico" : "../../assets/img/step4-img.jpg",
+        "openrunner": "https://www.openrunner.com/r/12807557",
+        "highlights": []
+      }
+    ]
+  }

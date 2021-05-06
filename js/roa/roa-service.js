@@ -7,7 +7,7 @@
         var service = {};        
         service.load = load;
         function load(){
-            return $http.get('html/roa/alpes.json');
+            return $http.get('html/roa/r2r2021.json');
         }
         return service;
     }

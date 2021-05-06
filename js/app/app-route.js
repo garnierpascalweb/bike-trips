@@ -12,7 +12,7 @@
                         controller: 'TestController as vm'							 
                     }                  
                 },
-                url: '/6majeurs/',
+                url: '/roadtoroanne/',
                 views:  {                  
                     content: {
                         templateUrl: 'html/roa/roa.html',
@@ -21,6 +21,6 @@
                 }                             
             });
             // route par dfaut, si / alors redirection vers /recherche
-            $urlRouterProvider.otherwise('/6majeurs/');
+            $urlRouterProvider.otherwise('/roadtoroanne/');
         }]);		
 }(angular));
